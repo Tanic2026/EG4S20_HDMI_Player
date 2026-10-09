@@ -1,0 +1,25 @@
+# ========== Modelsim仿真输出 ==========
+*.vcd
+*.log
+transcript
+*.wlf
+*.do~
+
+# ========== FPGA综合布线产物 ==========
+*.bak
+*.rpt
+*.html
+*.xml
+*.jou
+output_files/
+ip_generated/
+
+# ========== 编辑器临时文件 ==========
+*~
+*.swp
+.DS_Store
+Thumbs.db
+
+# ========== Vivado个人配置 ==========
+*.user
+*.ini
